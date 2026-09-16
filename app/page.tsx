@@ -84,6 +84,14 @@ const projects = [
     github: "",
     image: "/WHMLA (1).png",
   },
+  {
+    title: "College Admission System — SQL Database Project",
+    stack: "MySQL · SQL (DDL + DML)",
+    description:
+      "A relational database project built in MySQL that models a college admission workflow — from student applications to admin approvals. Includes schema design, sample data, and 25+ queries demonstrating JOINs, subqueries, aggregate functions, and wildcard operators.",
+    github: "https://github.com/HamzaHassanMir/College-Admission-DataBase.git",
+    image: "",
+  }
 ];
 
 const certifications = [
