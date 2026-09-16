@@ -90,7 +90,7 @@ const projects = [
     description:
       "A relational database project built in MySQL that models a college admission workflow — from student applications to admin approvals. Includes schema design, sample data, and 25+ queries demonstrating JOINs, subqueries, aggregate functions, and wildcard operators.",
     github: "https://github.com/HamzaHassanMir/College-Admission-DataBase.git",
-    image: "",
+    image: "/college admission system.png",
   }
 ];
 
