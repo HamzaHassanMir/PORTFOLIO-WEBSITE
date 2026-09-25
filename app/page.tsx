@@ -102,6 +102,12 @@ const certifications = [
   "Introduction to Python Programming — University of Pennsylvania · Coursera",
   "HTML and CSS in Depth — Meta · Coursera",
   "Introduction to SQL — University of Michigan · Coursera",
+  "Write Professional Emails in English — Georgia Institute of Technology · Coursera",
+  "Claude 101 — ANTHROPIC ",
+  "Python (Basic) — HackerRank ",
+  "SQL (Basic) — HackerRank ",
+  "Excel 2019 Associate — Microsoft Office Specialist · Microsoft",
+  "Word 2019 Associate — Microsoft Office Specialist · Microsoft",
 ];
 
 const navItems = ["about", "experience", "skills", "projects", "contact"];
