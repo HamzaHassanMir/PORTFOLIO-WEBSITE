@@ -310,7 +310,7 @@ export default function Home() {
 
         <div className="grid gap-14 lg:grid-cols-[.7fr_1.3fr]">
           <p className="text-sm uppercase tracking-[0.08em] text-black/50">
-            Full stack / frontend / software engineering
+            Full stack software engineering
           </p>
 
           <div>
@@ -346,7 +346,7 @@ export default function Home() {
           {[
             ["03+", "Internships"],
             ["03+", "Production Apps"],
-            ["07+", "Certifications"],
+            ["10+", "Certifications"],
             ["∞", "Curiosity"],
           ].map(([number, label], i) => (
             <div
