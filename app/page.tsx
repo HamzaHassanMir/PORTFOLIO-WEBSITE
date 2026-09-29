@@ -63,7 +63,7 @@ const projects = [
     title: "Elegant Essentials",
     stack: "React · Node.js · MongoDB · Redux Toolkit",
     description:
-      "Production-ready fashion e-commerce platform with full storefront, admin dashboard, Google OAuth, and real email delivery via Nodemailer.",
+      "Production-ready fashion e-commerce platform with full storefront, admin dashboard, Google OAuth, and real email delivery via Nodemailer. Tested and optimized website performance using Google PageSpeed Insights, achieving a 98/100 performance score",
     github: "https://github.com/HamzaHassanMir/Elegant-Essentials.git",
     image: "/elegant essentials.png",
   },
