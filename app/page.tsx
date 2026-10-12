@@ -3,16 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 
-/* ------------------------------------------------------------------ */
-/*  DATA                                                               */
-/* ------------------------------------------------------------------ */
 
-/* ------------------------------------------------------------------ */
-/*  TESTIMONIALS — add your own here.                                  */
-/*  The Testimonial section and its nav link stay hidden while this    */
-/*  array is empty, and appear automatically once it has an entry.     */
-/*  Each entry needs: quote, name, role. (No author photos needed.)   */
-/* ------------------------------------------------------------------ */
 const testimonials: { quote: string; name: string; role: string }[] = [
   {
     quote: "Working alongside Hamza has been an absolute game-changer.I've consistently been impressed by their deep understanding of clean architecture, scalable backend systems, and type-safe frontend workflows with TypeScript.",
